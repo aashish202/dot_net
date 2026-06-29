@@ -43,8 +43,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Boxunbox.cs" />
+    <Compile Include="Calculator.cs" />
+    <Compile Include="Conversion.cs" />
+    <Compile Include="Convertstring.cs" />
+    <Compile Include="Jaggedarray.cs" />
+    <Compile Include="Matrixmultipilication.cs" />
+    <Compile Include="Minmaxavg.cs" />
+    <Compile Include="Multiplication.cs" />
+    <Compile Include="Namespace.cs" />
+    <Compile Include="Nestednamespace.cs" />
+    <Compile Include="Oddeven.cs" />
+    <Compile Include="Print.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reverse.cs" />
+    <Compile Include="Simpleinterest.cs" />
+    <Compile Include="Sum.cs" />
+    <Compile Include="Swap.cs" />
+    <Compile Include="Twod.cs" />
+    <Compile Include="Vowelconsonent.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
